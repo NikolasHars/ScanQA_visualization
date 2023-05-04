@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: © 2023 Georgios Vlassis <gvlassis@mailbox.org> 
+# SPDX-FileCopyrightText: © 2023 Project's authors 
 # SPDX-License-Identifier: MIT
 
 import argparse
