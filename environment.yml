@@ -1,0 +1,7 @@
+channels:
+  - conda-forge
+dependencies:
+  - Python=3.10
+  - pip:
+    - open3d
+    - numpy
